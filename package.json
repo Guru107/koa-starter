@@ -12,6 +12,7 @@
   "author": "Gurudatt Kulkarni",
   "license": "WTFPL",
   "dependencies": {
-    "koa": "^1.2.4"
+    "koa": "^1.2.4",
+	"koa-server-push": "^0.1.0"
   }
 }
